@@ -1,2 +1,7 @@
 # Ignore tester files
 *main.c
+# Tester files
+bubble
+insertion
+select
+quick
