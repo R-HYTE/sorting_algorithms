@@ -4,6 +4,8 @@
  * swap - Swaps the values of two integers
  * @a: Pointer to the first integer
  * @b: Pointer to the second integer
+ *
+ * Return: void
  */
 void swap(int *a, int *b)
 {
@@ -17,6 +19,8 @@ void swap(int *a, int *b)
  * the bubble sort algorithm
  * @array: The array to be sorted
  * @size: The size of the array
+ *
+ * Return: Void
  */
 void bubble_sort(int *array, size_t size)
 {
